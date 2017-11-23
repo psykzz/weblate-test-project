@@ -1,11 +1,11 @@
-#: path/to/source:lineNO
+#: path/to/source.js:123
 msgid "item-flour"
 msgstr "Flour"
 
-#: path/to/source:lineNO
+#: path/to/source.rb:123
 msgid "item-wheat"
 msgstr "Wheat"
 
-#: path/to/source:lineNO
+#: path/to/source.py:123
 msgid "item-GasCanister"
 msgstr "Gas Canister"
